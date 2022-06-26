@@ -1,0 +1,5 @@
+pandas
+google-cloud-language
+google-cloud-storage
+fsspec
+gcsfs
